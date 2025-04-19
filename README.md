@@ -3,7 +3,7 @@
 PolkMarketing.AI is a decentralized platform built on Polkadot that democratizes AI-powered marketing for businesses of all sizes. Our platform leverages a comprehensive System Prompt Library to enable no-code marketing automation, content generation, and campaign optimization. By factionalizing marketing workflows into modular components, users can build, deploy, and monetize sophisticated AI marketing solutions without technical expertise. PolkMarketing.AI employs a binary processing engine to break down complex marketing tasks into vectorized components, stores them in a knowledge graph database, and facilitates seamless integration with various AI models. The platform is designed to empower marketing professionals, agencies, and businesses to harness the power of AI while maintaining full ownership and control over their workflows within the Polkadot ecosystem.
 
 
-Features
+## Features
 System Prompt Library: Extensive collection of marketing-specific prompts organized by category (content creation, SEO, social media, email marketing, etc.)
 Visual Workflow Designer: Intuitive drag-and-drop interface for building custom marketing workflows using prompt components
 Binary Processing Engine: Breaks down complex marketing tasks into modular, reusable components
