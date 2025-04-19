@@ -16,5 +16,31 @@ Cloud Hosting: Reliable infrastructure for running marketing AI workflows
 Marketplace: Exchange and monetize custom marketing workflows and prompt components
 Performance Analytics: Track and optimize marketing campaign performance metrics
 
+
+
+## verson 1 structure
+
 <img width="742" alt="Screenshot 2025-04-19 at 22 17 53" src="https://github.com/user-attachments/assets/49585904-8ae2-420f-94c9-b47b9d17b849" />
+
+###
+
+## roadmap
+- [x]Develop System Prompt Library V1 marketing-specific prompts
+- [ ]Create Visual Workflow Designer with drag-and-drop functionality
+Implement Binary Processing Engine for workflow component management
+Build Knowledge Graph Database for marketing concepts and relationships
+Develop Vector Search capabilities for marketing asset similarity matching
+Integrate with leading AI models for specialized marketing tasks
+Create deployment pipeline with one-click functionality
+Build API connectors for major marketing platforms
+Implement cloud hosting infrastructure on Polkadot
+Develop marketplace for workflow and prompt exchange
+Create performance analytics dashboard for campaign optimization
+Expand System Prompt Library to 2,000+ specialized marketing prompts
+Add multi-language support for global marketing campaigns
+Implement advanced A/B testing capabilities
+Develop custom AI model training for specific marketing niches
+Create governance module for community-driven platform evolution
+- [ ]
+- [ ]
 
