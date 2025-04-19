@@ -48,7 +48,7 @@ contract WndTipper {
         (bool successDeveloper, ) = payable(developer).call{value: toDeveloper}("");
         require(successDeveloper, "Transfer to developer failed");
         
-        emit Tipped(msg.sender, recipient, amount, toRecipient, toDeveloper); // 發出打賞事件
+        emit Tipped(msg.sender, recipient, amount, toRecipient, toDeveloper); // tipping
     }
     
     function getBalance() public view returns (uint256) {
