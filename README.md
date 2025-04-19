@@ -25,6 +25,9 @@ Performance Analytics: Track and optimize marketing campaign performance metrics
 ###
 
 ## roadmap
+
+- [ ] Develop System Prompt Library V1 marketing-specific prompts
+
 []Develop System Prompt Library V1 marketing-specific prompts
 - [ ]Create Visual Workflow Designer with drag-and-drop functionality
 Implement Binary Processing Engine for workflow component management
