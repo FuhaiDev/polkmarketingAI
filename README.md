@@ -26,24 +26,20 @@ Performance Analytics: Track and optimize marketing campaign performance metrics
 
 ## roadmap
 
-- [ ] Develop System Prompt Library V1 marketing-specific prompts
-
-[]Develop System Prompt Library V1 marketing-specific prompts
-- [ ]Create Visual Workflow Designer with drag-and-drop functionality
-Implement Binary Processing Engine for workflow component management
-Build Knowledge Graph Database for marketing concepts and relationships
-Develop Vector Search capabilities for marketing asset similarity matching
-Integrate with leading AI models for specialized marketing tasks
-Create deployment pipeline with one-click functionality
-Build API connectors for major marketing platforms
-Implement cloud hosting infrastructure on Polkadot
-Develop marketplace for workflow and prompt exchange
-Create performance analytics dashboard for campaign optimization
-Expand System Prompt Library to 2,000+ specialized marketing prompts
-Add multi-language support for global marketing campaigns
-Implement advanced A/B testing capabilities
-Develop custom AI model training for specific marketing niches
-Create governance module for community-driven platform evolution
-- [ ]
-- [ ]
+- [x] Develop System Prompt Library V1 marketing-specific prompts
+- [x] Develop System Prompt Library V2 marketing prompts in different scenario
+- [ ] Create Visual Workflow Designer with drag-and-drop functionality
+- [ ] Implement Binary Processing Engine for workflow component management
+- [ ] Build Knowledge Graph Database for marketing concepts and relationships
+- [ ] Develop Vector Search capabilities for marketing asset similarity matching
+- [ ] Integrate with leading AI models for specialized marketing tasks
+- [ ] Create deployment pipeline with one-click functionality
+- [ ] Build API connectors for major marketing platforms
+- [ ] Develop marketplace for workflow and prompt exchange
+- [ ] Create performance analytics dashboard for campaign optimization
+- [ ] Expand System Prompt Library to 50+ specialized marketing prompts
+- [ ] Add multi-language support for global marketing campaigns
+- [ ] Implement advanced A/B testing capabilities
+- [ ] Develop custom AI model training for specific marketing niches
+- [ ] Create governance module for community-driven platform evolution
 
