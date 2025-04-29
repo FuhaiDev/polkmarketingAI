@@ -20,6 +20,8 @@ PolkMarketing.AI is a decentralized platform built on Polkadot that democratizes
 - Performance Analytics: Track and optimize marketing campaign performance metrics
 
 ## prototype video 
+https://youtu.be/k30u7AnV_uc
+
 preview 
 <img width="1031" alt="Screenshot 2025-04-19 at 21 01 27" src="https://github.com/user-attachments/assets/68852daf-ecf8-4972-babf-08670d1cb30f" />
 
